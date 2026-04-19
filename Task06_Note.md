@@ -56,7 +56,8 @@
 最终，构建了具备 **“全流程追踪 + 自动保存 + 人工审批”** 功能的小说助手。
 > <img width="1800" height="947" alt="task7_屏幕截图 2026-04-19 161646" src="https://github.com/user-attachments/assets/eb83d4af-2da4-400f-ab2a-35f057f6b2e1" />
 这里我生成了两篇小说
-> * **[👉 点击此处阅读：生成的完整小说正文 (TXT)](./novel_final_output.txt)** * **[👉 点击此处阅读：生成的第二篇小说 (TXT)](./novel_final_output.txt_2.txt)**
+> * **[👉 点击此处阅读：生成的完整小说正文 (TXT)](./novel_final_output.txt)**
+> * **[👉 点击此处阅读：生成的第二篇小说 (TXT)](./novel_final_output_2.txt)**
 
 ---
 
